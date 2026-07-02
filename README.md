@@ -1,6 +1,4 @@
-## charging_dashboard
-
-### 充电图表
+## charging_dashboard（充电图表）
 
 ---
 
