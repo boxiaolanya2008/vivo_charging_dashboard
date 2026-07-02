@@ -5,6 +5,7 @@ import pandas as pd
 import numpy as np
 import os
 
+# 喜欢我的史山吗？？
 # 设置中文字体
 plt.rcParams['font.sans-serif'] = ['SimHei', 'Microsoft YaHei', 'DejaVu Sans']
 plt.rcParams['axes.unicode_minus'] = False
@@ -161,3 +162,5 @@ output_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'charging
 plt.savefig(output_path, dpi=150, bbox_inches='tight')
 plt.show()
 print(f"图表已保存: {output_path}")
+
+# 史山到头咯，byebye
