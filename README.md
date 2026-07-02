@@ -1,7 +1,5 @@
 ## charging_dashboard
 
----
-
 ### 充电图表
 
 ---
@@ -44,7 +42,7 @@ python main.py
 
 ---
 
-如果有`KC-Tool`的话可以使用工具箱直接免Root启动
+Tip : 如果有`KC-Tool`的话可以使用工具箱直接免Root启动
 
 ---
 
